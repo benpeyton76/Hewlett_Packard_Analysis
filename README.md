@@ -1,9 +1,9 @@
-#                                                             Pewlett_Hackard_Analysis
-Overview of the analysis: Explain the purpose of this analysis.
+#                                                             ***Pewlett Hackard Analysis***
+## ***Overview:***
 
-In the Module 7 Challenge, you and Bobby are asked to find the number of employees retiring from Pelwett Hackard. The manager wants to know the retiring employees by title, and also find the employees who fall within certain age criteria to participate in a mentorship program before they retire. Bobby's manager asked that a report be written that summarizes the data analysis and helps the manager prepare for the "silver tsunami" due to the large amount of employees retiring soon.
+In the Module 7 Challenge, we are asked to find the number of employees retiring from Pelwett Hackard. The manager wants to know the retiring employees by title, and also find the employees who fall within certain age criteria to participate in a mentorship program before they retire. Our manager asked that a report be written that summarizes the data analysis and helps the manager prepare for the "silver tsunami" due to the large amount of employees retiring soon.
 
-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## ***Results:***
 
 * A high number of employees will be eligible for retirement at any time as shown by the retirement_titles table. 
 * The importance of starting a mentor program will be essential in order for Pewlett Hackard to continue workflow with minimal interuption due to staffing issues.
@@ -12,7 +12,7 @@ Results: Provide a bulleted list with four major points from the two analysis de
 
 ![image](https://user-images.githubusercontent.com/87077325/141131876-91fd55f5-a4e1-4bb2-b0fc-25b23911377b.png)
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## ***Summary:***
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 There are 64,969 total employees that can retire at any given time. The positions will need to be filled as soon as possible.
