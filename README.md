@@ -14,10 +14,12 @@ In the Module 7 Challenge, we are asked to find the number of employees retiring
 
 ## ***Summary:***
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+***How many roles will need to be filled as the "silver tsunami" begins to make an impact?***
+
 There are 64,969 total employees that can retire at any given time. The positions will need to be filled as soon as possible.
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+***Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?***
+
 No. There are a total of 1549 employees who qualify for the mentorship program.
 
 ![Screen Shot 2021-11-10 at 8 37 56 AM](https://user-images.githubusercontent.com/87077325/141133067-7acbb90b-09b5-49b3-8830-f381c6f74b47.png)
